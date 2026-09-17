@@ -53,7 +53,7 @@ With this, running the script multiple times with different genes on the same
 genomes no longer overwrites previous results; each gene ends up neatly
 organized in its own folder.
 
-### Other behaviors that remain unchanged
+### Some additional features
 
 - `blastn -task blastn` with a low `word_size` and `-dust no`: higher
   sensitivity to divergence, indels, and low-complexity regions, so the hit
